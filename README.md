@@ -1,5 +1,4 @@
-# BLINKIT_ANALYSIS
-Blinkit Analysis using Excel.
+# BLINKIT_ANALYSIS_USING_EXCEL
 *****Overview :*****
 This project analyzes grocery transaction and product-level data from Blinkit to understand consumer behavior,
 sales performance, and product trends. The goal is to present actionable insights for business optimization through an Excel dashboard.
